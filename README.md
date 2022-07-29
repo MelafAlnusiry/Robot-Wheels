@@ -1,8 +1,4 @@
 
-## Wheels🚲
-**One of the most basic of mechanical devices, the wheel has been around in one form or another since about 6500 BC. It’s likely that we will continue to use wheels for many millennia to come.** <br />
-
-
 ## Robot-Wheels⚒:<br />
 
 **In order to design a perfect robot, you will need lots of components one of them is the Robot Wheels.Wheeled robots are robots that navigate around the ground using motorized wheels to propel themselves. This design is simpler than using treads or legs and by using wheels they are easier to design, build, and program for movement. Because of wheels robots are easily controlled, spin on the spot, or turn around in small places and they help in steering compared to tracks**<br />
